@@ -1,6 +1,7 @@
 from pynput import mouse
 from pynput import keyboard
-print("\nMOUSE_RULER v1.0\nCopyright © 2020 DeNRuDi (Denis Rudnitskiy)\n")
+print("MOUSE_RULER v1.0\nCopyright © 2020 DeNRuDi (Denis Rudnitskiy)")
+print('Вышла v2.0 программы, ознакомиться - https://github.com/DeNRuDi/MOUSE_RULERv2')
 i = 1
 def main():
 	def on_press(key):
